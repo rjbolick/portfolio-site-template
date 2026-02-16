@@ -25,8 +25,8 @@ export default function Home() {
         />
 
         <About content={personalInfo.about} />
-        <Skills skills={skills} />
         <Projects projects={projects} />
+        <Skills skills={skills} />
         <Experience experience={experience} />
         <Education education={education} />
 

@@ -1,0 +1,11 @@
+{
+  "name": "@vercel/analytics",
+  "version": "1.0.0-local",
+  "private": true,
+  "exports": {
+    "./react": "./react/index.js"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  }
+}
